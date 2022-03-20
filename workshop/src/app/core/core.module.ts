@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { HeaderComponent } from './app-header/app-header.component';
+import { HeaderComponent } from './header/app-header.component';
 import { FooterComponent } from './footer/footer.component';
 import { AsideComponent } from './aside/aside.component';
 
